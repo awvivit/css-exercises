@@ -57,7 +57,7 @@ body {
   padding: 0;
   justify-content: flex-start;
   align-items: left; 
-  gap: 6px; 
+  gap: 16px; 
 }
 
 
@@ -71,7 +71,7 @@ body {
 .content {
   display: flex;
   flex-wrap: wrap; 
-  gap: 10px; 
+  gap: 32px; /*I had 10px due to my screen size.*/
   justify-content: left;
   flex-grow: 1; 
   flex-shrink: 1; 
