@@ -13,6 +13,7 @@
   font-family: Helvetica;
   font-weight: bold;
   color: white;
+  display: grid; 
 }
 
 .header {
